@@ -161,7 +161,7 @@ GEM
     unf_ext (0.0.8.2)
     unicode-display_width (2.5.0)
     version_gem (1.1.3)
-    yard (0.9.34)
+    yard (0.9.35)
     yard-junk (0.0.9)
       backports (>= 3.18)
       rainbow
